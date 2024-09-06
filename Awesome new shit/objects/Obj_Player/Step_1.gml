@@ -1,5 +1,5 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 21577CA2
+/// @DnDHash : 74737AEB
 /// @DnDArgument : "var" "vel_x"
 vel_x = 0;
