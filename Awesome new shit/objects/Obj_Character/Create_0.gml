@@ -16,8 +16,14 @@ vel_y = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 1CC78062
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "grav_speed"
+grav_speed = 1;
+
 /// @DnDHash : 730D0276
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "grav_speed"
 grav_speed += 1;
+
